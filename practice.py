@@ -1,3 +1,6 @@
+# this file is only for parctice purpose
+
+#--------------------------
 # str1 = "hello"
 # #
 # # for i in str1:
