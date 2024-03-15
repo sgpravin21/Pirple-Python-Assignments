@@ -1,12 +1,11 @@
-#class defination
-class fan:
+class car:
 
     def __init__(self):
-        self.fan_name = "USHA"
-        self.fan_color = "black"
-        self.fan_size = "medium"
+        self.name = 'maruthi'
+        self.model = 'alto'
+        self.color = 'blue'
 
-fan1 = fan()
-print(fan1.fan_name)
-print(fan1.fan_size)
-print(fan1.fan_color)
+car1 = car()
+print(car1.color)
+print(car1.name)
+print(car1.model)
